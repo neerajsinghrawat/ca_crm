@@ -1,0 +1,21 @@
+<?php
+$mod_strings['LBL_STOCKNUMBER'] = 'Stock Number';
+$mod_strings['LBL_VIN'] = 'VIN';
+$mod_strings['LBL_YEAR'] = 'Year';
+$mod_strings['LBL_MAKE'] = 'Make';
+$mod_strings['LBL_MODEL'] = 'Model';
+$mod_strings['LBL_TRIM'] = 'Trim';
+$mod_strings['LBL_ODOMETER'] = 'Odometer';
+$mod_strings['LBL_SPECIALPRICE'] = 'Special Price';
+$mod_strings['LBL_EXTERIORCOLOR'] = 'Exterior Color';
+$mod_strings['LBL_INTERIORCOLOR'] = 'Interior Color';
+$mod_strings['LBL_TRANSMISSION'] = 'Transmission';
+$mod_strings['LBL_PHOTOURLS'] = 'URLs';
+$mod_strings['LBL_WEBADDESCRIPTION'] = 'Web Ad Description';
+$mod_strings['LBL_LISTINGURL'] = 'Car Listing URL';
+$mod_strings['LBL_DOCUMENTS_SUBPANEL_TITLE'] = 'Documents';
+$mod_strings['LBL_IMAGES_GALLERY'] = 'Product Images';
+$mod_strings['LBL_STATUS'] = 'Status';
+$mod_strings['LBL_SOLD'] = 'Sold';
+$mod_strings['LBL_sold_datetime'] = 'Sold DateTime';
+$mod_strings['LBL_PHOTO_URL'] = 'Photo URL';

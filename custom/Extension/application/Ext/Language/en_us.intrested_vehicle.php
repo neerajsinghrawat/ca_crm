@@ -1,0 +1,1 @@
+$app_list_strings['moduleList']['iv_intrested_vehicle'] = 'Interested Vehicle';
