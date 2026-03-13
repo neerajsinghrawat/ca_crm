@@ -19,3 +19,5 @@ $mod_strings['LBL_STATUS'] = 'Status';
 $mod_strings['LBL_SOLD'] = 'Sold';
 $mod_strings['LBL_sold_datetime'] = 'Sold DateTime';
 $mod_strings['LBL_PHOTO_URL'] = 'Photo URL';
+$mod_strings['LBL_INVENTORY_STATUS_C'] = 'Inventory Status';
+$mod_strings['LBL_SELLING_PRICE'] = 'Selling Price';

@@ -1,13 +1,4 @@
 <?php
-// WARNING: The contents of this file are auto-generated
-
-
-$mod_strings['LBL_EMAIL']          = 'Email';
-$mod_strings['LBL_ADDRESS']        = 'Address';
-$mod_strings['LBL_REPRESENTATIVE'] = 'Representative';
-$mod_strings['LBL_IS_WHOLESALER']  = 'Is Wholesaler';
-
-
 $mod_strings['LBL_COMPANY'] = 'Company';
 $mod_strings['LBL_PHONE'] = 'Phone';
 $mod_strings['LBL_LICENSE_NUMBER'] = 'License Number';
@@ -17,4 +8,3 @@ $mod_strings['LBL_PREFERRED_VEHICLE_TYPES'] = 'Preferred Vehicle Types';
 $mod_strings['LBL_AGREEMENT_TEMPLATE'] = 'Agreement Template';
 $mod_strings['LBL_DOCUSIGN_EMAIL'] = 'DocuSign Email';
 $mod_strings['LBL_CREATE_WHOLESALE_DEAL'] = 'Create Wholesale Deal';
-

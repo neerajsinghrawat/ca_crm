@@ -154,6 +154,22 @@ $dictionary['AOS_Products']['fields']['status'] = array(
     'len' => 100,
     'audited' => true,
 );
+$dictionary['AOS_Products']['fields']['inventory_status_c'] = array(
+    'name' => 'inventory_status_c',
+    'vname' => 'LBL_INVENTORY_STATUS_C',
+    'type' => 'enum',
+    'options' => 'inventory_wholesale_status_list',
+    'default' => 'available',
+    'len' => 100,
+    'audited' => true,
+);
+$dictionary['AOS_Products']['fields']['selling_price'] = array(
+    'name' => 'selling_price',
+    'vname' => 'LBL_SELLING_PRICE',
+    'type' => 'decimal',
+    'len' => '10,6',
+    'audited' => true,
+);
 $dictionary['AOS_Products']['fields']['sold'] = array(
     'name' => 'sold',
     'vname' => 'LBL_SOLD',
